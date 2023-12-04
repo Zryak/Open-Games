@@ -28,3 +28,5 @@ Taiko **-** https://taiko.ani-nya.com/ **-** Rythm
 Boxel Rebound **-** https://trinculo54.github.io/Boxel-rebound-hope/Older/ **-** Platformer
 
 Decensus 2 **-** https://tomwhall.github.io/descensus2/ **-** Puzzle Platformer
+
+The House **-** https://the-house.arturkot.pl/ **-** Point and Click
