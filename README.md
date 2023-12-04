@@ -1,4 +1,4 @@
-# By using this site to find games to play, you agree to out terms of use.
+# By using this site to find games to play, you agree to our terms of use.
 
 1. Don't get the games blocked
 2. Don't be obviously playing in class
