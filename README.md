@@ -5,11 +5,17 @@ This is a collection of unblocked games.
 
 # SOURCES
 
+Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** Source
+
 # CHESS
 
 # SPORTS
 
+Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
+
 # WORD GAMES
+
+Unlimited Wordle **-** https://bosorioo.github.io/wordle-unlimited/ **-** Word
 
 # PUZZLE
 
@@ -17,17 +23,11 @@ This is a collection of unblocked games.
 
 # BOARD GAME
 
-# Clicker
+# CLICKER
 
-# Platform
+# PLATFORM
 
-# Point and click
-
-Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
-
-Unlimited Wordle **-** https://bosorioo.github.io/wordle-unlimited/ **-** Word
-
-Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** Source
+# POINT AND CLICK
 
 Alge's Escapade **-** https://dave-and-mike.github.io/game-off-2012/ **-** Puzzle
 
