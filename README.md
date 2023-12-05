@@ -25,9 +25,10 @@ Chess **-** https://toytheater.com/chess/ **-** Board game
 
 Taiko **-** https://taiko.ani-nya.com/ **-** Rythm
 
-Chess **-** https://listudy.org/en **-** Studying Chess
 Boxel Rebound **-** https://trinculo54.github.io/Boxel-rebound-hope/Older/ **-** Platformer
 
 Decensus 2 **-** https://tomwhall.github.io/descensus2/ **-** Puzzle Platformer
 
 The House **-** https://the-house.arturkot.pl/ **-** Point and Click
+
+Chess **-** https://listudy.org/en **-** Studying Chess
