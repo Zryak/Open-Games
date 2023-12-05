@@ -9,9 +9,9 @@ Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** 
 
 # CHESS
 
-Chess **-** https://toytheater.com/chess/ **-** Board game
-
 Chess **-** https://listudy.org/en **-** Studying Chess
+
+Chess **-** https://toytheater.com/chess/ **-** Chess
 
 Chess **-** https://www.calculators.org/games/master-chess/ **-** Chess
 
