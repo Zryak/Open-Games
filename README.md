@@ -31,6 +31,8 @@ Tetris **-** https://codeincomplete.com/games/tetris/ **-** Puzzle
 
 Snakeland **-** https://www.calculators.org/games/snakeland/ **-** Puzzle
 
+Connect the dots **-** https://www.calculators.org/games/connect-a-way/ **-** Puzzle
+
 # FPS
 
 BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html **-** FPS
