@@ -3,6 +3,26 @@ This is a collection of unblocked games.
 
 **Name - Link - Type**
 
+#SOURCES
+
+#CHESS
+
+#SPORTS
+
+#WORD GAMES
+
+#PUZZLE
+
+#FPS
+
+#BOARD GAME
+
+#Clicker
+
+#Platform
+
+#Point and click
+
 Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
 
 Unlimited Wordle **-** https://bosorioo.github.io/wordle-unlimited/ **-** Word
@@ -32,3 +52,5 @@ Decensus 2 **-** https://tomwhall.github.io/descensus2/ **-** Puzzle Platformer
 The House **-** https://the-house.arturkot.pl/ **-** Point and Click
 
 Chess **-** https://listudy.org/en **-** Studying Chess
+
+Chess **-** https://www.calculators.org/games/master-chess/ **-** Chess
