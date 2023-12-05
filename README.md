@@ -61,6 +61,8 @@ The House **-** https://the-house.arturkot.pl/ **-** Point and Click
 
 # Rhythm
 
-Taiko **-** https://taiko.ani-nya.com/ **-** Rythm
+Taiko **-** https://taiko.ani-nya.com/ **-** Rhythm
 
-Pulsus **-** https://www.pulsus.cc/play/ **-** Rythm
+Pulsus **-** https://www.pulsus.cc/play/ **-** Rhythm
+
+Rhythm quest **-** https://rhythmquestgame.com/demo/rhythm-quest-demo.html **-** Rhythm
