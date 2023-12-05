@@ -37,6 +37,8 @@ BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html
 
 Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
 
+UNO **-** https://www.calculators.org/games/uno/ **-** Board game
+
 # CLICKER
 
 Cookie Clicker **-** https://ozh.github.io/cookieclicker/ **-** Clicker
