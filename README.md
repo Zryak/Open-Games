@@ -29,6 +29,8 @@ Hex 2048 **-** https://jeffhou.github.io/hex-2048/ **-** Puzzle
 
 Tetris **-** https://codeincomplete.com/games/tetris/ **-** Puzzle
 
+Snakeland **-** https://www.calculators.org/games/snakeland/ **-** Puzzle
+
 # FPS
 
 BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html **-** FPS
