@@ -37,6 +37,8 @@ Connect the dots **-** https://www.calculators.org/games/connect-a-way/ **-** Pu
 
 BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html **-** FPS
 
+DOOM **-** https://uacorp.space/ **-** FPS
+
 # BOARD GAME
 
 Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
