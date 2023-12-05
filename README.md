@@ -3,25 +3,25 @@ This is a collection of unblocked games.
 
 **Name - Link - Type**
 
-#SOURCES
+# SOURCES
 
-#CHESS
+# CHESS
 
-#SPORTS
+# SPORTS
 
-#WORD GAMES
+# WORD GAMES
 
-#PUZZLE
+# PUZZLE
 
-#FPS
+# FPS
 
-#BOARD GAME
+# BOARD GAME
 
-#Clicker
+# Clicker
 
-#Platform
+# Platform
 
-#Point and click
+# Point and click
 
 Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
 
