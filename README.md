@@ -23,6 +23,8 @@ Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
 
 Unlimited Wordle **-** https://bosorioo.github.io/wordle-unlimited/ **-** Word
 
+Unlimited Globle **-** https://globlegame.org/ **-** Word
+
 # PUZZLE
 
 Hex 2048 **-** https://jeffhou.github.io/hex-2048/ **-** Puzzle
