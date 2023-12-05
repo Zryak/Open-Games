@@ -9,6 +9,12 @@ Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** 
 
 # CHESS
 
+Chess **-** https://toytheater.com/chess/ **-** Board game
+
+Chess **-** https://listudy.org/en **-** Studying Chess
+
+Chess **-** https://www.calculators.org/games/master-chess/ **-** Chess
+
 # SPORTS
 
 Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
@@ -19,38 +25,34 @@ Unlimited Wordle **-** https://bosorioo.github.io/wordle-unlimited/ **-** Word
 
 # PUZZLE
 
-# FPS
-
-# BOARD GAME
-
-# CLICKER
-
-# PLATFORM
-
-# POINT AND CLICK
-
-Alge's Escapade **-** https://dave-and-mike.github.io/game-off-2012/ **-** Puzzle
-
 Hex 2048 **-** https://jeffhou.github.io/hex-2048/ **-** Puzzle
-
-BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html **-** FPS
-
-Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
 
 Tetris **-** https://codeincomplete.com/games/tetris/ **-** Puzzle
 
+# FPS
+
+BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html **-** FPS
+
+# BOARD GAME
+
+Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
+
+# CLICKER
+
 Cookie Clicker **-** https://ozh.github.io/cookieclicker/ **-** Clicker
 
-Chess **-** https://toytheater.com/chess/ **-** Board game
+# PLATFORM
 
-Taiko **-** https://taiko.ani-nya.com/ **-** Rythm
+Alge's Escapade **-** https://dave-and-mike.github.io/game-off-2012/ **-** Puzzle Platformer
 
 Boxel Rebound **-** https://trinculo54.github.io/Boxel-rebound-hope/Older/ **-** Platformer
 
 Decensus 2 **-** https://tomwhall.github.io/descensus2/ **-** Puzzle Platformer
 
+# POINT AND CLICK
+
 The House **-** https://the-house.arturkot.pl/ **-** Point and Click
 
-Chess **-** https://listudy.org/en **-** Studying Chess
+# Rythm
 
-Chess **-** https://www.calculators.org/games/master-chess/ **-** Chess
+Taiko **-** https://taiko.ani-nya.com/ **-** Rythm
