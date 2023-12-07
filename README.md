@@ -1,5 +1,6 @@
-# Open-Games
-This is a collection of unblocked games.
+# Welcome to Open-Games
+
+**This is a websited compiling different types of unblocked games. Enjoy!**
 
 **Name - Link - Type**
 
