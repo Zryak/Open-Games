@@ -74,7 +74,7 @@ Pulsus **-** https://www.pulsus.cc/play/ **-** Rhythm
 
 Rhythm quest **-** https://rhythmquestgame.com/demo/rhythm-quest-demo.html **-** Rhythm
 
-#Horror
+# Horror
 
 FNAF 1 **-** https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/ **-** Horror
 
