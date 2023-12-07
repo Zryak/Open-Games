@@ -54,6 +54,8 @@ UNO **-** https://www.calculators.org/games/uno/ **-** Board game
 
 Cookie Clicker **-** https://ozh.github.io/cookieclicker/ **-** Clicker
 
+Case Clicker **-** https://casehouse.5v.pl/ **-** Clicker
+
 # PLATFORM
 
 Alge's Escapade **-** https://dave-and-mike.github.io/game-off-2012/ **-** Puzzle Platformer
