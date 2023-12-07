@@ -41,6 +41,8 @@ BananaBread **-** https://kripken.github.io/misc-js-benchmarks/banana/index.html
 
 DOOM **-** https://uacorp.space/ **-** FPS
 
+1v1.lol **-** https://games.imc.re/ngs/1v1lol/ **-** FPS
+
 # BOARD GAME
 
 Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
