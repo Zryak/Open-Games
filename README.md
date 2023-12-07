@@ -73,3 +73,11 @@ Taiko **-** https://taiko.ani-nya.com/ **-** Rhythm
 Pulsus **-** https://www.pulsus.cc/play/ **-** Rhythm
 
 Rhythm quest **-** https://rhythmquestgame.com/demo/rhythm-quest-demo.html **-** Rhythm
+
+#Horror
+
+FNAF 1 **-** https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/ **-** Horror
+
+FNAF 2 **-** https://ruihq.github.io/FNAF2/ **-** Horror
+
+
