@@ -5,7 +5,7 @@ This is a collection of unblocked games.
 
 # SOURCES
 
-Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** Source
+Source of games **-** 🔗[https://github.com/leereilly/games#user-content-rpg] **-** Source
 
 # CHESS
 
