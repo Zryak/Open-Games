@@ -44,6 +44,8 @@ DOOM **-** https://uacorp.space/ **-** FPS
 
 1v1.lol **-** https://games.imc.re/ngs/1v1lol/ **-** FPS
 
+1v1.lol **-**  https://gamesforsite.github.io/projects/1v1lol/index.html **-** FPS
+
 # BOARD GAME
 
 Catan **-** https://sibartlett.github.io/colonizers/demo.html **-** Board game
