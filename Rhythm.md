@@ -1,3 +1,5 @@
+# [Back to Main](README.md)
+
 # Rhythm
 
 Taiko **-** <a href="https://taiko.ani-nya.com/">Taiko.ani-nya.com</a> **-** Rhythm 
