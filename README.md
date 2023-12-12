@@ -2,26 +2,26 @@
 
 **This is a website compiling different types of unblocked games. Enjoy!**
 
-[SOURCES](Sources.md)
+[SOURCES](Categories/Sources.md)
 
-[CHESS](Chess.md)
+[CHESS](Categories/Chess.md)
 
-[SPORTS](Sports.md)
+[SPORTS](Categories/Sports.md)
 
-[WORD GAMES](Word-games.md)
+[WORD GAMES](Categories/Word-games.md)
 
-[PUZZLE](Puzzle.md)
+[PUZZLE](Categories/Puzzle.md)
 
-[FPS](FPS.md)
+[FPS](Categories/FPS.md)
 
-[BOARD GAME](Board-Games.md)
+[BOARD GAME](Categories/Board-Games.md)
 
-[CLICKER](Clicker.md)
+[CLICKER](Categories/Clicker.md)
 
-[PLATFORM](Platform.md)
+[PLATFORM](Categories/Platform.md)
 
-[POINT AND CLICK](Point-and-click.md)
+[POINT AND CLICK](Categories/Point-and-click.md)
 
-[Rhythm](Rhythm.md)
+[Rhythm](Categories/Rhythm.md)
 
-[Horror](Horror.md)
+[Horror](Categories/Horror.md)
