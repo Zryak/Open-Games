@@ -1,10 +1,3 @@
-body {
-  padding: 25px;
-  background-color: black;
-  color: white;
-  font-size: 25px;
-}
-
 # Welcome to Open-Games
 
 **This is a website compiling different types of unblocked games. Enjoy!**
