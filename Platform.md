@@ -8,4 +8,6 @@ Boxel Rebound **-** <a href="https://trinculo54.github.io/Boxel-rebound-hope/Old
 
 Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.github.io</a> **-** Puzzle Platformer 
 
+Duck Life 2 **-** <a href="https://www.mathplayground.com/duck2/index.html">Mathplayground.com</a> **-** Training platformer
+
 Duck Life 4 **-** <a href="https://www.mathplayground.com/duck4/index.html">Mathplayground.com</a> **-** Training platformer
