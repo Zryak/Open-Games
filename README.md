@@ -18,70 +18,67 @@ Chess **-** <a href="https://www.calculators.org/games/master-chess/">Calculator
 
 # SPORTS
 
-Retro Bowl **-** <a href="https://jakwhegf.github.io/uab123/">Calculators.org</a> **-** Sports 
+Retro Bowl **-** <a href="https://jakwhegf.github.io/uab123/">Jakwegf.github.io</a> **-** Sports 
 
 # WORD GAMES
 
-Unlimited Wordle **-** [https://bosorioo.github.io/wordle-unlimited/](url) **-** Word
+Unlimited Wordle **-** <a href="https://bosorioo.github.io/wordle-unlimited/">Bosorioo.github.io</a> **-** Word 
 
-Unlimited Globle **-** [https://globlegame.org/](url) **-** Word
+Unlimited Globle **-** <a href="https://globlegame.org/">Calculators.org</a> **-** Word 
 
 # PUZZLE
 
-Hex 2048 **-** [https://jeffhou.github.io/hex-2048/](url) **-** Puzzle
+Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</a> **-** Puzzle 
 
-Tetris **-** [https://codeincomplete.com/games/tetris/](url) **-** Puzzle
+Tetris **-** <a href="https://codeincomplete.com/games/tetris/">Codeincomplete.com</a> **-** Puzzle 
 
-Snakeland **-** [https://www.calculators.org/games/snakeland/](url) **-** Puzzle
+Snakeland **-** <a href="https://www.calculators.org/games/snakeland/">Calculators.org</a> **-** Puzzle 
 
-Connect the dots **-** [https://www.calculators.org/games/connect-a-way/](url) **-** Puzzle
-
+Connect the dots **-** <a href="https://www.calculators.org/games/connect-a-way/">Calculators.org</a> **-** Puzzle 
 # FPS
 
-BananaBread **-** [https://kripken.github.io/misc-js-benchmarks/banana/index.html](url) **-** FPS
+BananaBread **-** <a href="kripken.github.io/misc-js-benchmarks/banana/index.html">Kripken.github.io</a> **-** FPS 
 
-DOOM **-** [https://uacorp.space/](url) **-** FPS
+DOOM **-** <a href="https://uacorp.space/">Uacorp.space</a> **-** FPS 
 
-1v1.lol **-** [https://games.imc.re/ngs/1v1lol/](url) **-** FPS
+1v1.lol **-** <a href="https://games.imc.re/ngs/1v1lol/">Games.imc.re</a> **-** FPS 
 
-1v1.lol **-**  [https://gamesforsite.github.io/projects/1v1lol/index.html](url) **-** FPS
+1v1.lol **-**  <a href="https://gamesforsite.github.io/projects/1v1lol/index.html">Gamesforsite.github.io</a> **-** FPS 
 
 # BOARD GAME
 
-Catan **-** [https://sibartlett.github.io/colonizers/demo.html](url) **-** Board game
+Catan **-** <a href="https://sibartlett.github.io/colonizers/demo.html">Sibartlett.github.io</a> **-** Board game 
 
-UNO **-** [https://www.calculators.org/games/uno/](url) **-** Board game
+UNO **-** <a href="https://www.calculators.org/games/uno/">Calculators.org</a> **-** Board game 
 
 # CLICKER
 
-Cookie Clicker **-** [https://ozh.github.io/cookieclicker/](url) **-** Clicker
+Cookie Clicker **-** <a href="https://ozh.github.io/cookieclicker/">Ozh.github.io</a> **-** Clicker 
 
-Case Clicker **-** [https://casehouse.5v.pl/](url) **-** Clicker
+Case Clicker **-** <a href="https://casehouse.5v.pl/">Casehouse.5v.pl</a> **-** Clicker 
 
 # PLATFORM
 
-Alge's Escapade **-** [https://dave-and-mike.github.io/game-off-2012/](url) **-** Puzzle Platformer
+Alge's Escapade **-** <a href="https://dave-and-mike.github.io/game-off-2012/">Dave-and-mike.github.io</a> **-** Puzzle Platformer 
 
-Boxel Rebound **-** [https://trinculo54.github.io/Boxel-rebound-hope/Older/](url) **-** Platformer
+Boxel Rebound **-** <a href="https://trinculo54.github.io/Boxel-rebound-hope/Older/">Trinculo54.github.io</a> **-** Platformer 
 
-Decensus 2 **-** [https://tomwhall.github.io/descensus2/](url) **-** Puzzle Platformer
+Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.github.io</a> **-** Puzzle Platformer 
 
 # POINT AND CLICK
 
-The House **-** [https://the-house.arturkot.pl/](url) **-** Point and Click
+The House **-** <a href="https://the-house.arturkot.pl/">The-house.arturkot.pl</a> **-** Point and Click 
 
 # Rhythm
 
-Taiko **-** [https://taiko.ani-nya.com/](url) **-** Rhythm
+Taiko **-** <a href="https://taiko.ani-nya.com/">Taiko.ani-nya.com</a> **-** Rhythm 
 
-Pulsus **-** [https://www.pulsus.cc/play/](url) **-** Rhythm
+Pulsus **-** <a href="https://www.pulsus.cc/play/">Pulsus.cc</a> **-** Rhythm 
 
-Rhythm quest **-** [https://rhythmquestgame.com/demo/rhythm-quest-demo.html](url) **-** Rhythm
+Rhythm quest **-** <a href="https://rhythmquestgame.com/demo/rhythm-quest-demo.html">Rhythmquestgame.com</a> **-** Rhythm 
 
 # Horror
 
-FNAF 1 **-** [https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/](url) **-** Horror
+FNAF 1 **-** <a href="https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/">WellSoussa.github.io</a> **-** Horror 
 
-FNAF 2 **-** [https://ruihq.github.io/FNAF2/](url) **-** Horror
-
-
+FNAF 2 **-** <a href="https://ruihq.github.io/FNAF2/">Ruihq.github.io</a> **-** Horror 
