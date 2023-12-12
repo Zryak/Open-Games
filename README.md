@@ -2,11 +2,7 @@
 
 **This is a website compiling different types of unblocked games. Enjoy!**
 
-**Name - Link - Type**
-
-# SOURCES
-
-Source of games **-** <a href="https://github.com/leereilly/games">Github.com/leereilly/games</a>  **-** Source
+[# SOURCES](Sources.md)
 
 # CHESS
 
