@@ -6,4 +6,4 @@ Please not that all games from thelearningapps.com have an immense amount of ads
 
 # List of Games that redirect here:
 
-1. Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a> **-** [Training platformer](/../main/Categories/PLatform.md) **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
+1. Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a> **-** [Training platformer](/../main/Categories/Platform.md) **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
