@@ -18,7 +18,7 @@ Chess **-** <a href="https://www.calculators.org/games/master-chess/">Calculator
 
 # SPORTS
 
-Retro Bowl **-** [https://jakwhegf.github.io/uab123/](url) **-** Sports
+Retro Bowl **-** <a href="https://jakwhegf.github.io/uab123/">Calculators.org</a> **-** Sports 
 
 # WORD GAMES
 
