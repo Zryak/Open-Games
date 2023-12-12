@@ -20,4 +20,7 @@ Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_v
 
 Duck Life 2 **-** <a href="https://www.mathplayground.com/duck2/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Mathplayground-HTML-Games.md)
 
+Duck Life 2 **-** <a href="https://www.thelearningapps.com/duck-life-2/">Thelearningapps.com</a> **-** Training platformer
+
 ![Duck Life 2 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/7a48f0f8-5468-44f7-b162-05a35c243016)
+
