@@ -10,6 +10,6 @@ Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.githu
 
 Duck Life 2 **-** <a href="https://www.mathplayground.com/duck2/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](Note-For-All_Mathplayground-HTML-Games.md)
 
-Duck Life 4 **-** <a href="https://www.mathplayground.com/duck4/index.html">Mathplayground.com</a> **-** Training platformer **-** Note](Note-For-All_Mathplayground-HTML-Games.md)
+Duck Life 4 **-** <a href="https://www.mathplayground.com/duck4/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](Note-For-All_Mathplayground-HTML-Games.md)
 
-Duck Life 5 **-** <a href="https://www.mathplayground.com/duck5/index.html">Mathplayground.com</a> **-** Training platformer **-** Note](Note-For-All_Mathplayground-HTML-Games.md)
+Duck Life 5 **-** <a href="https://www.mathplayground.com/duck5/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](Note-For-All_Mathplayground-HTML-Games.md)
