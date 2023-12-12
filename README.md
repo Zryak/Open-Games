@@ -10,7 +10,7 @@ Source of games **-** <a href="https://github.com/leereilly/games">Github.com/le
 
 # CHESS
 
-Chess **-** [https://listudy.org/en](url) **-** Studying Chess
+Chess **-** <a href="https://listudy.org/en">Listudy.org</a> **-** Studying Chess
 
 Chess **-** [https://toytheater.com/chess/](url) **-** Chess
 
