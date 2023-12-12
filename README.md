@@ -2,19 +2,19 @@
 
 **This is a website compiling different types of unblocked games. Enjoy!**
 
-# [SOURCES](Sources.md)
+[SOURCES](Sources.md)
 
-# [CHESS](Chess.md)
+[CHESS](Chess.md)
 
-# [SPORTS](Sports.md)
+[SPORTS](Sports.md)
 
-# [WORD GAMES](Word-games.md)
+[WORD GAMES](Word-games.md)
 
-# [PUZZLE](Puzzle.md)
+[PUZZLE](Puzzle.md)
 
-# [FPS](FPS.md)
+[FPS](FPS.md)
 
-# [BOARD GAME](Board-Games.md)
+[BOARD GAME](Board-Games.md)
 
 # CLICKER
 
