@@ -3,7 +3,7 @@
 # CHESS
 
 Chess **-** <a href="https://listudy.org/en">Listudy.org</a> **-** Studying Chess
-![Listudy screenshot]{/../main/Screenshots/Listudy}
+! [Listudy screenshot]{/../main/Screenshots/Listudy}
 
 Chess **-** <a href="https://toytheater.com/chess/">Toytheater.com</a> **-** Chess
 
