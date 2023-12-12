@@ -6,19 +6,19 @@
 
 # SOURCES
 
-Source of games **-** https://github.com/leereilly/games#user-content-rpg **-** Source
+Source of games **-** [https://github.com/leereilly/games#user-content-rpg](url) **-** Source
 
 # CHESS
 
-Chess **-** https://listudy.org/en **-** Studying Chess
+Chess **-** [https://listudy.org/en](url) **-** Studying Chess
 
-Chess **-** https://toytheater.com/chess/ **-** Chess
+Chess **-** [https://toytheater.com/chess/](url) **-** Chess
 
-Chess **-** https://www.calculators.org/games/master-chess/ **-** Chess
+Chess **-** [https://www.calculators.org/games/master-chess/](url) **-** Chess
 
 # SPORTS
 
-Retro Bowl **-** https://jakwhegf.github.io/uab123/ **-** Sports
+Retro Bowl **-** [https://jakwhegf.github.io/uab123/](url) **-** Sports
 
 # WORD GAMES
 
