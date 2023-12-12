@@ -8,8 +8,6 @@
 
 # SPORTS
 
-Retro Bowl **-** <a href="https://jakwhegf.github.io/uab123/">Jakwegf.github.io</a> **-** Sports 
-
 # WORD GAMES
 
 Unlimited Wordle **-** <a href="https://bosorioo.github.io/wordle-unlimited/">Bosorioo.github.io</a> **-** Word 
