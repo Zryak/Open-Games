@@ -12,9 +12,9 @@ Source of games **-** <a href="https://github.com/leereilly/games">Github.com/le
 
 Chess **-** <a href="https://listudy.org/en">Listudy.org</a> **-** Studying Chess
 
-Chess **-** [https://toytheater.com/chess/](url) **-** Chess
+Chess **-** <a href="https://toytheater.com/chess/">Toytheater.com</a> **-** Chess
 
-Chess **-** [https://www.calculators.org/games/master-chess/](url) **-** Chess
+Chess **-** <a href="https://www.calculators.org/games/master-chess/">Calculators.org</a> **-**  Chess
 
 # SPORTS
 
