@@ -6,7 +6,7 @@
 
 # SOURCES
 
-Source of games **-** <a href="https://github.com/leereilly/games#user-content-rpg">Link</a>  **-** Source
+Source of games **-** <a href="https://github.com/leereilly/games">Github.com/leereilly/games</a>  **-** Source
 
 # CHESS
 
