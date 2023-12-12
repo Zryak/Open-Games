@@ -7,3 +7,5 @@ Alge's Escapade **-** <a href="https://dave-and-mike.github.io/game-off-2012/">D
 Boxel Rebound **-** <a href="https://trinculo54.github.io/Boxel-rebound-hope/Older/">Trinculo54.github.io</a> **-** Platformer 
 
 Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.github.io</a> **-** Puzzle Platformer 
+
+Duck Life 4 **-** <a href="https://www.mathplayground.com/duck4/index.html">Mathplayground.com</a> **-** Training platformer
