@@ -2,7 +2,7 @@
 
 **This is a website compiling different types of unblocked games. Enjoy!**
 
-[# SOURCES](Sources.md)
+# [SOURCES](Sources.md)
 
 # CHESS
 
