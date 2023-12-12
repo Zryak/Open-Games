@@ -1,5 +1,7 @@
 # PUZZLE
 
+# [Back to Main](README.md)
+
 Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</a> **-** Puzzle 
 
 Tetris **-** <a href="https://codeincomplete.com/games/tetris/">Codeincomplete.com</a> **-** Puzzle 
