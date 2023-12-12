@@ -14,10 +14,10 @@ Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.githu
 
 ![Descensus 2 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/ccac49f8-f467-4a92-8504-54b983af33dc)
 
+Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a>
+
+![Duck Life 1 Screenshots](https://github.com/Zryak/Open-Games/assets/152645699/e95a8f1b-fc01-490f-95b4-6d78238fe0f1)
+
 Duck Life 2 **-** <a href="https://www.mathplayground.com/duck2/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Mathplayground-HTML-Games.md)
 
 ![Duck Life 2 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/7a48f0f8-5468-44f7-b162-05a35c243016)
-
-Duck Life 4 **-** <a href="https://www.mathplayground.com/duck4/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Mathplayground-HTML-Games.md)
-
-Duck Life 5 **-** <a href="https://www.mathplayground.com/duck5/index.html">Mathplayground.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Mathplayground-HTML-Games.md)
