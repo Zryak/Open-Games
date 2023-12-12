@@ -6,7 +6,7 @@
 
 # [CHESS](Chess.md)
 
-# SPORTS
+# [SPORTS](Sports.md)
 
 # WORD GAMES
 
