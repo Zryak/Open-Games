@@ -12,7 +12,7 @@
 
 # [PUZZLE](Puzzle.md)
 
-# FPS
+# [FPS](FPS.md)
 
 BananaBread **-** <a href="kripken.github.io/misc-js-benchmarks/banana/index.html">Kripken.github.io</a> **-** FPS 
 
