@@ -14,7 +14,7 @@ Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.githu
 
 ![Descensus 2 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/ccac49f8-f467-4a92-8504-54b983af33dc)
 
-Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a> **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
+Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
 
 ![Duck Life 1 Screenshots](https://github.com/Zryak/Open-Games/assets/152645699/e95a8f1b-fc01-490f-95b4-6d78238fe0f1)
 
