@@ -1,3 +1,5 @@
+# [Back to Main](README.md)
+
 # CLICKER
 
 Cookie Clicker **-** <a href="https://ozh.github.io/cookieclicker/">Ozh.github.io</a> **-** Clicker 
