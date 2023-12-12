@@ -1,6 +1,6 @@
-# PUZZLE
-
 # [Back to Main](README.md)
+
+# PUZZLE
 
 Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</a> **-** Puzzle 
 
