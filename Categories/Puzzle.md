@@ -12,4 +12,6 @@ Tetris **-** <a href="https://codeincomplete.com/games/tetris/">Codeincomplete.c
 
 Snakeland **-** <a href="https://www.calculators.org/games/snakeland/">Calculators.org</a> **-** Puzzle 
 
+![Snakeland Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/3d712809-0f81-44b6-a91b-971148da60ca)
+
 Connect the dots **-** <a href="https://www.calculators.org/games/connect-a-way/">Calculators.org</a> **-** Puzzle 
