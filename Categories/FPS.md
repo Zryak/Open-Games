@@ -4,6 +4,8 @@
 
 BananaBread **-** <a href="https://kripken.github.io/misc-js-benchmarks/banana/index.html">Kripken.github.io</a> **-** FPS 
 
+![02](https://github.com/Zryak/Open-Games/assets/152645699/c406644e-8546-477a-9adf-44a939675b6a)
+
 DOOM **-** <a href="https://uacorp.space/">Uacorp.space</a> **-** FPS 
 
 1v1.lol **-** <a href="https://games.imc.re/ngs/1v1lol/">Games.imc.re</a> **-** FPS 
