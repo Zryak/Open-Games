@@ -8,6 +8,8 @@ Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</
 
 Tetris **-** <a href="https://codeincomplete.com/games/tetris/">Codeincomplete.com</a> **-** Puzzle 
 
+![Tetris Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/85b48af1-2581-42ac-8afc-be9d62fa07f1)
+
 Snakeland **-** <a href="https://www.calculators.org/games/snakeland/">Calculators.org</a> **-** Puzzle 
 
 Connect the dots **-** <a href="https://www.calculators.org/games/connect-a-way/">Calculators.org</a> **-** Puzzle 
