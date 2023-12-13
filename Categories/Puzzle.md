@@ -15,3 +15,5 @@ Snakeland **-** <a href="https://www.calculators.org/games/snakeland/">Calculato
 ![Snakeland Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/3d712809-0f81-44b6-a91b-971148da60ca)
 
 Connect the dots **-** <a href="https://www.calculators.org/games/connect-a-way/">Calculators.org</a> **-** Puzzle 
+
+![Connect the dots screenshot](https://github.com/Zryak/Open-Games/assets/152645699/fba02050-2c6f-492d-9043-a04e4cb2b349)
