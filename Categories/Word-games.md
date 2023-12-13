@@ -8,3 +8,4 @@ Unlimited Wordle **-** <a href="https://bosorioo.github.io/wordle-unlimited/">Bo
 
 Unlimited Globle **-** <a href="https://globlegame.org/">Calculators.org</a> **-** Word 
 
+![Globle Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/83d0a540-1080-4774-995f-ca7b989040ae)
