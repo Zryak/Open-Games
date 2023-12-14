@@ -1,29 +1,27 @@
-name: Website Request
-description: Request to add a website to this repository
-title: "[Website] I want "
-labels: [Request, enhancement, games]
-
+name: Tip Request
+description: Request a GitHub Tip from MishManners
+title: "[Tip]: I want "
+labels: [Tip, enhancement]
+assignees:
+  - zryak
 body:
-- type: markdown
-attributes:
-  value: "Thanks for wanting to add games!"
-
-- tpye: input
-  id: Name
-  attributes:
-    label: Name of game
-    description: What is the name of the game you would like to add?
-    placeholder: ex. Github Issue Forms
-    value: "I"
-validations:
-    required: true
-
-
-- type: input
-  id: info
-  attributes:
-  label: Website link
-  description: What is the link to the website you would like to add?
-  placeholder: ex. Github Issue Forms
-  validations:
-  required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for requesting to add a Game. It should go up shortly
+  - type: input
+    id: Name
+    attributes:
+      label: Name of Game
+      description: What is the name of Game?
+      placeholder: ex. GitHub Issue Forms
+    validations:
+      required: true
+  - type: input
+    id: Website
+    attributes:
+      label: Name of Website
+      description: What is the link to this website?
+      placeholder: ex. GitHub Issue Forms
+    validations:
+      required: true
