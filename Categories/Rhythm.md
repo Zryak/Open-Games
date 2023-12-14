@@ -11,3 +11,5 @@ Pulsus **-** <a href="https://www.pulsus.cc/play/">Pulsus.cc</a> **-** Rhythm
 ![image](https://github.com/Zryak/Open-Games/assets/152645699/8dd53c05-301c-48a9-96c7-e6093bc18241)
 
 Rhythm quest **-** <a href="https://rhythmquestgame.com/demo/rhythm-quest-demo.html">Rhythmquestgame.com</a> **-** Rhythm 
+
+![download (3)](https://github.com/Zryak/Open-Games/assets/152645699/227a02e2-8fb4-43cf-aa68-bc1e07f75d5b)
