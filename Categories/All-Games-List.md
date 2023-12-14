@@ -24,3 +24,24 @@ DOOM **-** <a href="https://uacorp.space/">Uacorp.space</a> **-** [FPS](/Categor
 
 1v1.lol **-**  <a href="https://1v1lolonline.github.io/">1v1lolonline.github.io</a> **-** [FPS](/Categories/FPS.md)  
  
+FNAF 1 **-** <a href="https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/">WellSoussa.github.io</a> **-** [Horror](/Categories/Horror.md)
+
+FNAF 2 **-** <a href="https://ruihq.github.io/FNAF2/">Ruihq.github.io</a> **-** [Horror](/Categories/Horror.md)
+ 
+Alge's Escapade **-** <a href="https://dave-and-mike.github.io/game-off-2012/">Dave-and-mike.github.io</a> **-** [Puzzle Platformer](/Categories/Puzzle.md)
+
+Boxel Rebound **-** <a href="https://trinculo54.github.io/Boxel-rebound-hope/Older/">Trinculo54.github.io</a> **-** [Platformer](/Categories/Puzzle.md)
+ 
+Decensus 2 **-** <a href="https://tomwhall.github.io/descensus2/">Tomwhall.github.io</a> **-** [Puzzle Platformer](/Categories/Puzzle.md)
+
+Duck Life 1 **-** <a href="https://www.thelearningapps.com/duck-life-1/#google_vignette">Thelearningapps.com</a> **-** [Training Platformer](/Categories/Puzzle.md) **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
+
+Duck Life 2 **-** <a href="https://www.mathplayground.com/duck2/index.html">Mathplayground.com</a> **-** [Training Platformer](/Categories/Puzzle.md) **-** [Note](/../main/Notes/Note-For-All-Mathplayground-HTML-Games.md)
+
+Duck Life 2 **-** <a href="https://www.thelearningapps.com/duck-life-2/">Thelearningapps.com</a> **-** [Training Platformer](/Categories/Puzzle.md) **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
+
+Duck Life 3 **-** <a href="https://www.thelearningapps.com/duck-life-3-evolution/">Thelearningapps.com</a> **-** [Training Platformer](/Categories/Puzzle.md)  **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
+
+Rooftop Snipers **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** [Platformer](/Categories/Puzzle.md)
+
+Stickman Hook **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** [Platformer](/Categories/Puzzle.md)
