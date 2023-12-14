@@ -45,3 +45,27 @@ Duck Life 3 **-** <a href="https://www.thelearningapps.com/duck-life-3-evolution
 Rooftop Snipers **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** [Platformer](/Categories/Platform.md)
 
 Stickman Hook **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** [Platformer](/Categories/Platform.md)
+
+The House **-** <a href="https://the-house.arturkot.pl/">The-house.arturkot.pl</a> **-** [Point and Click](/Categories/Point-and-click.md)
+
+Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</a> **-** [Puzzle](/Categories/Puzzle.md) 
+
+Tetris **-** <a href="https://codeincomplete.com/games/tetris/">Codeincomplete.com</a> **-** [Puzzle](/Categories/Puzzle.md) 
+ 
+Snakeland **-** <a href="https://www.calculators.org/games/snakeland/">Calculators.org</a> **-** [Puzzle](/Categories/Puzzle.md)  
+
+Connect the dots **-** <a href="https://www.calculators.org/games/connect-a-way/">Calculators.org</a> **-** [Puzzle](/Categories/Puzzle.md)   
+
+Taiko **-** <a href="https://taiko.ani-nya.com/">Taiko.ani-nya.com</a> **-** [Rhythm](/Categories/Rhythm.md)
+
+Pulsus **-** <a href="https://www.pulsus.cc/play/">Pulsus.cc</a> **-** [Rhythm](/Categories/Rhythm.md)
+ 
+Rhythm quest **-** <a href="https://rhythmquestgame.com/demo/rhythm-quest-demo.html">Rhythmquestgame.com</a> **-** [Rhythm](/Categories/Rhythm.md) 
+
+Retro Bowl **-** <a href="https://jakwhegf.github.io/uab123/">Jakwegf.github.io</a> **-** [Sports](/Categories/Sports.md) 
+
+Retro Bowl **-** <a href="https://1v1lolonline.github.io/go/retro-bowl.html">1v1lolonline.github.io</a> **-** [Sports](/Categories/Sports.md) 
+
+Unlimited Wordle **-** <a href="https://bosorioo.github.io/wordle-unlimited/">Bosorioo.github.io</a> **-** [Word](/Categories/Word-games.md) 
+
+Unlimited Globle **-** <a href="https://globlegame.org/">Calculators.org</a> **-** [Word](/Categories/Word-games.md)  
