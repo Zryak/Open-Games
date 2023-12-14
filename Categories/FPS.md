@@ -12,6 +12,8 @@ DOOM **-** <a href="https://uacorp.space/">Uacorp.space</a> **-** FPS
 
 1v1.lol **-**  <a href="https://purepro4561.github.io/1v1-Lol/">Purepro4561.github.io</a> **-** FPS 
 
+1v1.lol **-**  <a href="https://1v1lolonline.github.io/">1v1lolonline.github.io</a> **-** FPS 
+
 ![1v1.lol Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/8271fd38-a2c3-4b06-819a-68cea50e9b88)
 
 ## Adding Games
