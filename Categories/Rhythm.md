@@ -8,4 +8,6 @@ Taiko **-** <a href="https://taiko.ani-nya.com/">Taiko.ani-nya.com</a> **-** Rhy
 
 Pulsus **-** <a href="https://www.pulsus.cc/play/">Pulsus.cc</a> **-** Rhythm 
 
+![image](https://github.com/Zryak/Open-Games/assets/152645699/8dd53c05-301c-48a9-96c7-e6093bc18241)
+
 Rhythm quest **-** <a href="https://rhythmquestgame.com/demo/rhythm-quest-demo.html">Rhythmquestgame.com</a> **-** Rhythm 
