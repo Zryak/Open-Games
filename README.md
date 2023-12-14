@@ -27,4 +27,4 @@
 [Horror](Categories/Horror.md)
 
 ## Adding Games
-Want to add a game to this repository? You're in luck! Fill in this [Form](/../main/.github/ISSUE_TEMPLATE/WebsiteRequest.yml)
+Want to add a game to this repository? You're in luck! Fill in this [Form](https://github.com/Zryak/Open-Games/edit/main/README.md)
