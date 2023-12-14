@@ -6,4 +6,4 @@ Catan **-** <a href="https://sibartlett.github.io/colonizers/demo.html">Sibartle
 
 UNO **-** <a href="https://www.calculators.org/games/uno/">Calculators.org</a> **-** [Board game](/Categories/Board-Games.md)
 
-Chess **-** <a href="https://listudy.org/en">Listudy.org</a> **-** [Studying Chess](/Categories/Board-Games.md)
+Chess **-** <a href="https://listudy.org/en">Listudy.org</a> **-** [Studying Chess](/Categories/Chess.md)
