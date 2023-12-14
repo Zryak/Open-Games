@@ -1,1 +1,1 @@
-# ALL games list
+# All games list
