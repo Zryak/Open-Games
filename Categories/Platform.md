@@ -28,9 +28,13 @@ Duck Life 3 **-** <a href="https://www.thelearningapps.com/duck-life-3-evolution
 
 ![Duck Life 3 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/126cdc30-cedc-471d-9ce0-6877756d6d19)
 
-Rooftop Snipers **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a>
+Rooftop Snipers **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** Platformer
 
 ![image](https://github.com/Zryak/Open-Games/assets/152645699/a5b6ee05-1e52-46a9-910a-3f68b15661c3)
+
+Stickman Hook **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** Platformer
+
+![image](https://github.com/Zryak/Open-Games/assets/152645699/18bb552e-fe49-4173-a145-27d8cd807a16)
 
 ## Adding Games
 Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
