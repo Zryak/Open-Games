@@ -14,9 +14,10 @@ body:
     label: Name of game
     description: What is the name of the game you would like to add?
     placeholder: ex. Github Issue Forms
-    validations:
-    required: true
     value: "I"
+validations:
+    required: true
+
 
 - type: input
   id: info
