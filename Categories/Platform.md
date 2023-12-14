@@ -27,3 +27,6 @@ Duck Life 2 **-** <a href="https://www.thelearningapps.com/duck-life-2/">Thelear
 Duck Life 3 **-** <a href="https://www.thelearningapps.com/duck-life-3-evolution/">Thelearningapps.com</a> **-** Training platformer **-** [Note](/../main/Notes/Note-For-All-Learning-App-Games.md)
 
 ![Duck Life 3 Screenshot](https://github.com/Zryak/Open-Games/assets/152645699/126cdc30-cedc-471d-9ce0-6877756d6d19)
+
+## Adding Games
+Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
