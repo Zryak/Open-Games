@@ -2,4 +2,4 @@
 
 # All games list
 
-Catan **-** <a href="https://sibartlett.github.io/colonizers/demo.html">Sibartlett.github.io</a> **-** [Board game](/categories/Board-Games.md)
+Catan **-** <a href="https://sibartlett.github.io/colonizers/demo.html">Sibartlett.github.io</a> **-** [Board game](/Categories/Board-Games.md)
