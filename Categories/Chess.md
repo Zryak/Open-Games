@@ -13,3 +13,6 @@ Chess **-** <a href="https://toytheater.com/chess/">Toytheater.com</a> **-** Che
 Chess **-** <a href="https://www.calculators.org/games/master-chess/">Calculators.org</a> **-**  Chess
 
 <img width="916" alt="master-chess" src="https://github.com/Zryak/Open-Games/assets/152645699/7c903202-41ac-474c-83a0-ed699cc8a8e2">
+
+## Adding Games
+Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
