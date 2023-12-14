@@ -5,11 +5,12 @@ labels: [Request, enhancement, games]
 assingees: 
 
 body:
-This form is to add a website to this repository, please go through each of the steps to add your website. I will try to include the site a soon as possible.
+  - tpye: input
+  attributes:
+  value: 
+    This is the name of the game you would like to add.
 
-The game I am adding is called
-input:
-, the website you may access this link is
-textarea:
-. The category this game belongs in is
-input:
+  - type: input
+  attributes:
+  value:
+   This is the website the game can be found on.
