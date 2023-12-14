@@ -14,7 +14,7 @@ body:
     attributes:
       label: Name of Game
       description: What is the name of Game?
-      placeholder: ex. GitHub Issue Forms
+      placeholder: ex. Chess
     validations:
       required: true
   - type: input
@@ -22,6 +22,6 @@ body:
     attributes:
       label: Name of Website
       description: What is the link to this website?
-      placeholder: ex. GitHub Issue Forms
+      placeholder: ex. Chess.com
     validations:
       required: true
