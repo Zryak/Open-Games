@@ -13,3 +13,6 @@ Pulsus **-** <a href="https://www.pulsus.cc/play/">Pulsus.cc</a> **-** Rhythm
 Rhythm quest **-** <a href="https://rhythmquestgame.com/demo/rhythm-quest-demo.html">Rhythmquestgame.com</a> **-** Rhythm 
 
 ![download (3)](https://github.com/Zryak/Open-Games/assets/152645699/227a02e2-8fb4-43cf-aa68-bc1e07f75d5b)
+
+## Adding Games
+Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
