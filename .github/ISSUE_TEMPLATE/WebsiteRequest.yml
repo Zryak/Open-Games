@@ -5,7 +5,7 @@ labels: [Request, enhancement, games]
 assingees: 
 
 body:
-  - tpye: input
+  -tpye: input
   id: Name
   attributes:
   label: Name of game
@@ -14,7 +14,7 @@ body:
   validations:
   required: true
 
-  - type: input
+  -type: input
   id: info
   attributes:
   label: Website link
