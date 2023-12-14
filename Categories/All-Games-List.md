@@ -69,3 +69,6 @@ Retro Bowl **-** <a href="https://1v1lolonline.github.io/go/retro-bowl.html">1v1
 Unlimited Wordle **-** <a href="https://bosorioo.github.io/wordle-unlimited/">Bosorioo.github.io</a> **-** [Word](/Categories/Word-games.md) 
 
 Unlimited Globle **-** <a href="https://globlegame.org/">Calculators.org</a> **-** [Word](/Categories/Word-games.md)  
+
+## Adding Games
+Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
