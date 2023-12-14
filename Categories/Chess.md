@@ -1,4 +1,6 @@
-# [Back to Main](/../main/README.md)
+[Back to Main](/../main/README.md)
+
+Want to see te full list of games? Click [here!](/../main/Categories/All-Games-List.md)
 
 # CHESS
 
