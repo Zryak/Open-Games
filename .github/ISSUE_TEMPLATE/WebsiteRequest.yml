@@ -1,5 +1,5 @@
-name: Tip Request
-description: Request a GitHub Tip from MishManners
+name: Website request
+description: Request to add a game website
 title: "[Tip]: I want "
 labels: [Tip, enhancement]
 assignees:
