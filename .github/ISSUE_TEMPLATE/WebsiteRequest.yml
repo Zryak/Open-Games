@@ -4,6 +4,9 @@ title: "[Website] I want "
 labels: [Request, enhancement, games]
 
 body:
+- type: markdown
+    attributes:
+      value: "Thanks for wanting to add games!"
 
 - tpye: input
   id: Name
