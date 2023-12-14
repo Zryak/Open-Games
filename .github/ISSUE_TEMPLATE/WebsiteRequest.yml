@@ -2,7 +2,6 @@ name: Website Request
 description: Request to add a website to this repository
 title: "[Website] I want "
 labels: [Request, enhancement, games]
-assingees: 
 
 body:
 - tpye: input
