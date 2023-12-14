@@ -1,6 +1,6 @@
 name: Website request
 description: Request to add a game website
-title: "[Tip]: I want "
+title: "[Game]: I want "
 labels: [game, website, add game]
 assignees:
   - zryak
