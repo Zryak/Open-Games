@@ -1,6 +1,6 @@
 [Back to Main](/../main/README.md)
 
-Want to see te full list of games? Click [here!](/../main/Categories/All-Games-List.md)
+Want to see the full list of games? Click [here!](/../main/Categories/All-Games-List.md)
 
 # POINT AND CLICK
 
