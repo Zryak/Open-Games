@@ -46,6 +46,8 @@ Rooftop Snipers **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers
 
 Stickman Hook **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2.html#/">1v1lolonline.github.io</a> **-** [Platformer](/Categories/Platform.md)
 
+Celeste Classic **-** <a href="https://celesteclassic.github.io/practice_mod.html">Celesteclassic.github.io</a> **-** [Platformer](/Categories/Platform.md)
+
 The House **-** <a href="https://the-house.arturkot.pl/">The-house.arturkot.pl</a> **-** [Point and Click](/Categories/Point-and-click.md)
 
 Hex 2048 **-** <a href="https://jeffhou.github.io/hex-2048/">Jeffhou.github.io</a> **-** [Puzzle](/Categories/Puzzle.md) 
