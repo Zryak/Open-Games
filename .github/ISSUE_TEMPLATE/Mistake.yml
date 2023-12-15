@@ -1,0 +1,27 @@
+name: Mistake
+description: Did I make a mistake?
+title: "[Game]: You wronged "
+labels: [game, website]
+assignees:
+  - zryak
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for telling me about the inaccuracy. I will fix it as soon as possible.
+  - type: input
+    id: Mistake
+    attributes:
+      label: Mistake
+      description: What is the mistake I made?
+      placeholder: ex. You misspelled ...
+    validations:
+      required: true
+  - type: input
+    id: Location
+    attributes:
+      label: Location of Mistake
+      description: Where did I make this mistake?
+      placeholder: ex. In the README
+    validations:
+      required: true
