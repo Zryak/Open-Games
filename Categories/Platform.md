@@ -38,5 +38,9 @@ Stickman Hook **-** <a href="https://1v1lolonline.github.io/go/rooftop-snipers-2
 
 ![image](https://github.com/Zryak/Open-Games/assets/152645699/18bb552e-fe49-4173-a145-27d8cd807a16)
 
+Celeste Classic **-** <a href="https://celesteclassic.github.io/practice_mod.html">Celesteclassic.github.io</a> **-** Platformer
+
+![image](https://github.com/Zryak/Open-Games/assets/152645699/2725ef73-1c7c-402b-8b51-ce9fcee8451b)
+
 ## Adding Games
 Want to add a game to this repository? You're in luck! Fill out this [Form](https://github.com/Zryak/Open-Games/issues/new?assignees=zryak&labels=game%2Cwebsite%2Cadd+game&projects=&template=WebsiteRequest.yml&title=%5BGame%5D%3A+I+want+)
